@@ -1,8 +1,8 @@
-# python_project_template
+# latex_python_template
 
-[![Github Actions Workflow](https://github.com/DiogoCarapito/python_project_template/actions/workflows/main.yaml/badge.svg)](https://github.com/DiogoCarapito/python_project_template/actions/workflows/main.yaml)
+[![Github Actions Workflow](https://github.com/DiogoCarapito/latex_python_template/actions/workflows/main.yaml/badge.svg)](https://github.com/DiogoCarapito/latex_python_template/actions/workflows/main.yaml)
 
-Personal python project template
+Personal LaTeX document python project template
 
 Python version_ 3.12
 
