@@ -1,0 +1,58 @@
+\contentsline {part}{I\hspace {1em}Forma^^c3^^a7^^c3^^a3o}{3}{part.1}%
+\contentsline {chapter}{\numberline {1}Pr^^c3^^a9-graduada}{4}{chapter.1}%
+\contentsline {chapter}{\numberline {2}P^^c3^^b3s-graduada}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ano Comum}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Internato de Forma^^c3^^a7^^c3^^a3o Espec^^c3^^adfica}{5}{section.2.2}%
+\contentsline {part}{II\hspace {1em}Atividade Cl^^c3^^adnica em Medicina Geral e Familiar (34 p^^c3^^a1ginas)}{6}{part.2}%
+\contentsline {chapter}{\numberline {1}Carateriza^^c3^^a7^^c3^^a3o do contexto da atividade em MGF}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Carateriza^^c3^^a7^^c3^^a3o sum^^c3^^a1ria da Comunidade e da Unidade de Sa^^c3^^bade de coloca^^c3^^a7^^c3^^a3o}{7}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Determinantes de sa^^c3^^bade da comunidade}{7}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Recursos e funcionamento}{7}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Caracteriza^^c3^^a7^^c3^^a3o da lista de Utentes do Orientador de Forma^^c3^^a7^^c3^^a3o}{7}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Caracteriza^^c3^^a7^^c3^^a3o por sexo e idade em quadro ou figura (Pir^^c3^^a2mide et^^c3^^a1ria)}{7}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Caracteriza^^c3^^a7^^c3^^a3o familiar (n ^^c2^^ba de fam^^c3^^adlias, tipo de fam^^c3^^adlias relativamente ^^c3^^a0 estrutura e n ^^c2^^ba de elementos por agregado)}{7}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Caracteriza^^c3^^a7^^c3^^a3o socioecon^^c3^^b3mica e cultural (escolaridade, profiss^^c3^^a3o/sector de atividade)}{8}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Problemas de sa^^c3^^bade mais frequentes}{8}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Caracteriza^^c3^^a7^^c3^^a3o de outros eventuais contextos de est^^c3^^a1gio em MGF}{8}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Planeamento e organiza^^c3^^a7^^c3^^a3o de atividades/gest^^c3^^a3o do tempo (2 p^^c3^^a1ginas)}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Sistema de Informa^^c3^^a7^^c3^^a3o e registos cl^^c3^^adnicos}{9}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Sistema de registo de dados usado}{9}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Fontes de dados e de monitoriza^^c3^^a7^^c3^^a3o de resultados}{9}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Acesso aos cuidados}{9}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}Hor^^c3^^a1rio da consulta}{9}{subsubsection.2.1.3.1}%
+\contentsline {subsubsection}{\numberline {2.1.3.2}Sistema de marca^^c3^^a7^^c3^^a3o e gest^^c3^^a3o das consultas - de acordo com a natureza da mesma (tempo de espera)}{9}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.1.3.3}Percentagem de consultas n^^c3^^a3o agendadas e gest^^c3^^a3o das consultas n^^c3^^a3o agendadas}{10}{subsubsection.2.1.3.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.4}Sistema de renova^^c3^^a7^^c3^^a3o de prescri^^c3^^a7^^c3^^b5es cr^^c3^^b3nicas}{10}{subsubsection.2.1.3.4}%
+\contentsline {subsubsection}{\numberline {2.1.3.5}Contactos n^^c3^^a3o presenciais atrav^^c3^^a9s de telefone, SMS, fax ou email}{10}{subsubsection.2.1.3.5}%
+\contentsline {subsubsection}{\numberline {2.1.3.6}Alternativas assistenciais no per^^c3^^adodo de encerramento da Unidade de Sa^^c3^^bade}{10}{subsubsection.2.1.3.6}%
+\contentsline {chapter}{\numberline {3}Atividades Assistenciais}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}An^^c3^^a1lise Global das Atividades}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}N^^c2^^ba total de consultas e grau de autonomia por ano de internato distinguindo contactos diretos e indirectos}{11}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}M^^c3^^a9dia de consultas por utente (global e por grupos vulner^^c3^^a1veis/risco) tendo por refer^^c3^^aancia o ^^c3^^baltimo ano de internato}{11}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Visitas domicili^^c3^^a1rias: n^^c3^^bamero e sua caracteriza^^c3^^a7^^c3^^a3o}{11}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Caracteriza^^c3^^a7^^c3^^a3o da referencia^^c3^^a7^^c3^^a3o e taxa de referencia^^c3^^a7^^c3^^a3o}{11}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Novos problemas de sa^^c3^^bade diagnosticados durante o ^^c3^^baltimo ano}{11}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}^^c3^^93bitos (CID 10 - Classifica^^c3^^a7^^c3^^a3o Internacional de Doen^^c3^^a7as - 10^^c2^^aa edi^^c3^^a7^^c3^^a3o)}{12}{subsection.3.1.6}%
+\contentsline {section}{\numberline {3.2}Abordagem de Problemas Agudos}{12}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Problemas de sa^^c3^^bade mais frequentes}{12}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Caracteriza^^c3^^a7^^c3^^a3o de Problemas de Sa^^c3^^bade Prevalentes}{12}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Caracteriza^^c3^^a7^^c3^^a3o dos grupos de risco por sexo e idade (HTA, Diabetes Mellitus, outros)}{12}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Problemas de sa^^c3^^bade prevalentes por grupos de risco (por cap^^c3^^adtulo da ICPC- 2 Classifica^^c3^^a7^^c3^^a3o Internacional de Cuidados Prim^^c3^^a1rios, 2 ^^c2^^aa Edi^^c3^^a7^^c3^^a3o)}{12}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Caracteriza^^c3^^a7^^c3^^a3o de Grupos com Necessidades Espec^^c3^^adficas}{12}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Planeamento familiar. Popula^^c3^^a7^^c3^^a3o - alvo, taxa de cobertura e m^^c3^^a9todos contraceptivos}{12}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Sa^^c3^^bade materna. Popula^^c3^^a7^^c3^^a3o - alvo, n^^c2^^ba de gr^^c3^^a1vidas vigiadas e grau de cumprimento do plano de seguimento}{13}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Sa^^c3^^bade infantil e juvenil. Popula^^c3^^a7^^c3^^a3o - alvo, taxa de vacina^^c3^^a7^^c3^^a3o e de cobertura de vigil^^c3^^a2ncia. Principais problemas detectados}{13}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Idosos. Popula^^c3^^a7^^c3^^a3o alvo e vulnerabilidade/ depend^^c3^^aancias}{13}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Aplica^^c3^^a7^^c3^^a3o de procedimentos preventivos na popula^^c3^^a7^^c3^^a3o em geral e nos grupos com necessidades espec^^c3^^adficas}{13}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Vacina^^c3^^a7^^c3^^a3o, rastreios oncol^^c3^^b3gicos, outros}{13}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}Outras atividades desenvolvidas}{13}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Promo^^c3^^a7^^c3^^a3o institucional (4 p^^c3^^a1ginas)}{14}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Presta^^c3^^a7^^c3^^a3o de cuidados de sa^^c3^^bade a grupos com necessidades especiais}{14}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Dinamiza^^c3^^a7^^c3^^a3o de sess^^c3^^b5es cl^^c3^^adnicas}{14}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Dinamiza^^c3^^a7^^c3^^a3o de n^^c3^^bacleos de forma^^c3^^a7^^c3^^a3o e/ou documenta^^c3^^a7^^c3^^a3o}{14}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Colabora^^c3^^a7^^c3^^a3o na cria^^c3^^a7^^c3^^a3o ou atualiza^^c3^^a7^^c3^^a3o de protocolos de atua^^c3^^a7^^c3^^a3o}{14}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Cria^^c3^^a7^^c3^^a3o de documentos de educa^^c3^^a7^^c3^^a3o para a sa^^c3^^bade Outros (ex^^c2^^ba: sess^^c3^^b5es de educa^^c3^^a7^^c3^^a3o para a sa^^c3^^bade)}{14}{section.4.5}%
+\contentsline {part}{III\hspace {1em}Cursos (2 p^^c3^^a1ginas)}{15}{part.3}%
+\contentsline {part}{IV\hspace {1em}Trabalhos cient^^c3^^adficos (6 p^^c3^^a1ginas)}{17}{part.4}%
+\contentsline {part}{V\hspace {1em}Outros elementos de valoriza^^c3^^a7^^c3^^a3o curricular (4 p^^c3^^a1ginas)}{19}{part.5}%
+\contentsline {part}{VI\hspace {1em}Coment^^c3^^a1rio final (3 p^^c3^^a1ginas)}{21}{part.6}%

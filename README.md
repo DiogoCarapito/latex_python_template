@@ -29,3 +29,11 @@ build docker image
 ```bash
 docker build -t main:latest .
 ```
+
+### mactex
+
+mac
+
+```bash
+brew install --cask mactex
+```

@@ -1,4 +1,4 @@
-from main import main
+from doc import main
 
 
 def test_main():
