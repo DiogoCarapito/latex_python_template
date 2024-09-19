@@ -22,10 +22,11 @@
 % Define Atlantic Blue color
 \definecolor{blue}{HTML}{003d7a}
 
+% make part and chapters flush with text
 \titleclass{\part}{top}
 \titleclass{\chapter}{straight}
 
-% Redefine \part to remove the page break and format it as a header
+% part format
 \titleformat{\part}[hang]
   {\normalfont\Huge\bfseries}
   {Parte \thepart:}
@@ -33,19 +34,25 @@
   {}
 \titlespacing*{\part}{0pt}{3.5ex plus 1ex minus .2ex}{1em}
 
-% Redefine chapter format to include chapter number and change color to Atlantic Blue
+% part format
 \titleformat{\chapter}[hang]
   {\normalfont\LARGE\bfseries} % Set color to Atlantic Blue
   {\thechapter.} % Include chapter number
   {0.5em} % Separation between label and title text
   {\LARGE}
 
-% Redefine section format to include section number and change color to Atlantic Blue
+% section format
 \titleformat{\section}[hang]
-  {\normalfont\Large\bfseries\color{blue}} % Set color to Atlantic Blue
+  {\normalfont\Large\bfseries} % Set color to Atlantic Blue
   {\thesection} % Include section number
   {0.5em} % Separation between label and title text
   {\Large}
+
+  \titleformat{\subsection}
+    {\normalfont\large\color{blue}}
+    {\thesubsection}
+    {0.5em}
+    {\large}
 
 \setcounter{secnumdepth}{3} % Enable numbering for subsubsections
 \setcounter{tocdepth}{2}    % Include subsubsections in the table of contents
@@ -101,7 +108,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %\setcounter{chapter}{0}
 \chapter{Atividade Clínica em Medicina Geral e Familiar (34 páginas)}
 
-\section{CARATERIZAÇÃO DO CONTEXTO DO ESTÁGIO Caraterização do contexto do estágio}
+\section{Caraterização do contexto do estágio}
 \subsection{Caraterização da comunidade (determinantes de saúde da comunidade); recursos de saúde}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 \subsection{Caraterização sumária da Unidade de Saúde de colocação e seu funcionamento}
@@ -111,7 +118,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 \subsection{Outros contextos de estágio formativos}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\section{PLANEAMENTO E ORGANIZAÇÃO DE ATIVIDADES/ GESTÃO DO TEMPO}
+\section{Planeamento e organização de actividades/gestão do tempo}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 \subsection{Sistema de registo de dados usado, fontes de dados e de monitorização de resultados}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -120,19 +127,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 \subsection{Organização da consulta}
 (horário; distribuição do tempo pelas diferentes áreas de trabalho)
 
-\section{ATIVIDADES ASSISTENCIAIS - em particular no último ano de prática}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\section{Actividades assistenciais}
+em particular no último ano de prática
 
 \subsection{Análise global das atividades}
-efetuadas pelo candidato só com supervisão à distância/"autonomia" total de consultas:
-diretas e indiretas), por grupos vulneráveis/ risco; gestão de doentes complexos; referências e taxa referenciação; novos
-problemas ano; para pontuar neste item o candidato deve ter efetuado, no mínimo, 1500 consultas num ano
+efetuadas pelo candidato só com supervisão à distância/"autonomia" total de consultas: diretas e indiretas), por grupos vulneráveis/ risco; gestão de doentes complexos; referências e taxa referenciação; novos problemas ano; para pontuar neste item o candidato deve ter efetuado, no mínimo, 1500 consultas num ano
 \subsection{Abordagem dos utentes com problemas de saúde episódicos (problemas mais frequentes)}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 \subsection{Caracterização dos problemas de saúde prevalentes (caracterização dos grupos de risco (HTA; DM; outros) por sexo, idade e problemas de saúde prevalentes (ICPC-2)}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 \subsection{Vigilância de grupos com necessidades específicas}
-(PF: pop. alvo; taxa cobertura; métodos/procedimentos); (SM: pop. alvo; taxa cobertura; cumprimento do plano de seguimento); (SIJ: pop. alvo; taxa cobertura; taxa de vacinação; problemas identificados); (idosos: pop. alvo; vulnerabilidade e dependências)
+PF: pop. alvo; taxa cobertura; métodos/procedimentos
+(SM: pop. alvo; taxa cobertura; cumprimento do plano de seguimento
+SIJ: pop. alvo; taxa cobertura; taxa de vacinação; problemas identificados
+idosos: pop. alvo; vulnerabilidade e dependências
 \subsection{Caracterização das visitas domiciliárias}
 efetuadas: número e sua caracterização. Exige-se um mínimo de 10 domicílios
 \subsection{Aplicação dos procedimentos preventivos na população em geral e nos grupos com necessidades específicas}
@@ -140,7 +148,7 @@ efetuadas: número e sua caracterização. Exige-se um mínimo de 10 domicílios
 \subsection{Descrição de outras atividades desenvolvidas}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\section{PROMOÇÃO INSTITUCIONAL}
+\section{Promoção institucional}
 DA UNIDADE DE SAÚDE, DA COORDENAÇÃO OU DA DIRECÇÃO DE INTERNATO
 
 \subsection{Prestação de cuidados de saúde a grupos com necessidades especiais}
@@ -156,7 +164,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 \subsection{Outros (ex.º programa de melhoria contínua de qualidade na UC ou no ACeS)}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\section{CURSOS FREQUENTADOS}
+\section{Cursos frequentados}
 Quadro com carga horária, entidade promotora, data, avaliação eventual
 \subsection{Organização de Jornadas, Congressos ou outros}
 (1 ponto por cada atividade)
@@ -167,7 +175,7 @@ não conferentes a grau, realizados por organismos idóneos com interesse para a
 \subsection{Programa de mestrado ou doutoramento com interesse para a MGF}
 Pós graduação: 2 pontos; Mestrado: 4 pontos; Doutoramento: 6 pontos
 
-\chapter{TRABALHOS CIENTÌFICOS}
+\chapter{Trabalhos científicos}
 
 \section{Os trabalhos publicados em revistas indexadas}
 A. Web of Science, Scopus, Pubmed, Scielo 15 pontos.
@@ -177,7 +185,7 @@ pontos por trabalho até ao máximo de 12 pontos; Outros até ao máximo de 8 po
 \section{Trabalhos de investigação, relato de caso, revisão, qualidade e projecto de intervenção, apresentados em congressos e jornadas}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\chapter{OUTROS ELEMENTOS DE VALORIZAÇÃO CURRICULAR}
+\chapter{Outros elementos de valorização curricular}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 \section{Participação na formação de outros profissionais}

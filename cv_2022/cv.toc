@@ -4,16 +4,16 @@
 \contentsline {subsection}{\numberline {1.2.1}Ano Comum}{2}{subsection.1.2.1}%
 \contentsline {subsection}{\numberline {1.2.2}Internato de Forma^^c3^^a7^^c3^^a3o Espec^^c3^^adfica}{2}{subsection.1.2.2}%
 \contentsline {chapter}{\numberline {2}Atividade Cl^^c3^^adnica em Medicina Geral e Familiar (34 p^^c3^^a1ginas)}{2}{chapter.2}%
-\contentsline {section}{\numberline {2.1}CARATERIZA^^c3^^87^^c3^^83O DO CONTEXTO DO EST^^c3^^81GIO Carateriza^^c3^^a7^^c3^^a3o do contexto do est^^c3^^a1gio}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.1}Carateriza^^c3^^a7^^c3^^a3o do contexto do est^^c3^^a1gio}{2}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Carateriza^^c3^^a7^^c3^^a3o da comunidade (determinantes de sa^^c3^^bade da comunidade); recursos de sa^^c3^^bade}{2}{subsection.2.1.1}%
 \contentsline {subsection}{\numberline {2.1.2}Carateriza^^c3^^a7^^c3^^a3o sum^^c3^^a1ria da Unidade de Sa^^c3^^bade de coloca^^c3^^a7^^c3^^a3o e seu funcionamento}{3}{subsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.1.3}Carateriza^^c3^^a7^^c3^^a3o geral da ^^e2^^80^^9clista de utentes^^e2^^80^^9d (sexo, idade, familiar, social), cultural (escolaridade, profiss^^c3^^a3o, setor de atividade), problemas de sa^^c3^^bade mais frequentes}{3}{subsection.2.1.3}%
 \contentsline {subsection}{\numberline {2.1.4}Outros contextos de est^^c3^^a1gio formativos}{3}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2.2}PLANEAMENTO E ORGANIZA^^c3^^87^^c3^^83O DE ATIVIDADES/ GEST^^c3^^83O DO TEMPO}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Planeamento e organiza^^c3^^a7^^c3^^a3o de actividades/gest^^c3^^a3o de tempo}{3}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Sistema de registo de dados usado, fontes de dados e de monitoriza^^c3^^a7^^c3^^a3o de resultados}{3}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Acesso aos cuidados}{3}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Organiza^^c3^^a7^^c3^^a3o da consulta}{3}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}ATIVIDADES ASSISTENCIAIS - em particular no ^^c3^^baltimo ano de pr^^c3^^a1tica}{4}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Actividades assistenciais}{3}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}An^^c3^^a1lise global das atividades}{4}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Abordagem dos utentes com problemas de sa^^c3^^bade epis^^c3^^b3dicos (problemas mais frequentes)}{4}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2.3.3}Caracteriza^^c3^^a7^^c3^^a3o dos problemas de sa^^c3^^bade prevalentes (caracteriza^^c3^^a7^^c3^^a3o dos grupos de risco (HTA; DM; outros) por sexo, idade e problemas de sa^^c3^^bade prevalentes (ICPC-2)}{4}{subsection.2.3.3}%
@@ -21,23 +21,23 @@
 \contentsline {subsection}{\numberline {2.3.5}Caracteriza^^c3^^a7^^c3^^a3o das visitas domicili^^c3^^a1rias}{4}{subsection.2.3.5}%
 \contentsline {subsection}{\numberline {2.3.6}Aplica^^c3^^a7^^c3^^a3o dos procedimentos preventivos na popula^^c3^^a7^^c3^^a3o em geral e nos grupos com necessidades espec^^c3^^adficas}{4}{subsection.2.3.6}%
 \contentsline {subsection}{\numberline {2.3.7}Descri^^c3^^a7^^c3^^a3o de outras atividades desenvolvidas}{4}{subsection.2.3.7}%
-\contentsline {section}{\numberline {2.4}PROMO^^c3^^87^^c3^^83O INSTITUCIONAL}{4}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Presta^^c3^^a7^^c3^^a3o de cuidados de sa^^c3^^bade a grupos com necessidades especiais}{5}{subsection.2.4.1}%
+\contentsline {section}{\numberline {2.4}Promo^^c3^^a7^^c3^^a3o institucional}{4}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Presta^^c3^^a7^^c3^^a3o de cuidados de sa^^c3^^bade a grupos com necessidades especiais}{4}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Organiza^^c3^^a7^^c3^^a3o/Dinamiza^^c3^^a7^^c3^^a3o de sess^^c3^^b5es cl^^c3^^adnicas}{5}{subsection.2.4.2}%
 \contentsline {subsection}{\numberline {2.4.3}Organiza^^c3^^a7^^c3^^a3o/ Dinamiza^^c3^^a7^^c3^^a3o de n^^c3^^bacleos de forma^^c3^^a7^^c3^^a3o e/ou documenta^^c3^^a7^^c3^^a3o}{5}{subsection.2.4.3}%
 \contentsline {subsection}{\numberline {2.4.4}Colabora^^c3^^a7^^c3^^a3o na cria^^c3^^a7^^c3^^a3o ou atualiza^^c3^^a7^^c3^^a3o de protocolos de atua^^c3^^a7^^c3^^a3o}{5}{subsection.2.4.4}%
 \contentsline {subsection}{\numberline {2.4.5}Participa^^c3^^a7^^c3^^a3o em atividades de educa^^c3^^a7^^c3^^a3o para a sa^^c3^^bade}{5}{subsection.2.4.5}%
 \contentsline {subsection}{\numberline {2.4.6}Outros (ex.^^c2^^ba programa de melhoria cont^^c3^^adnua de qualidade na UC ou no ACeS)}{5}{subsection.2.4.6}%
-\contentsline {section}{\numberline {2.5}CURSOS FREQUENTADOS}{5}{section.2.5}%
+\contentsline {section}{\numberline {2.5}Cursos frequentados}{5}{section.2.5}%
 \contentsline {subsection}{\numberline {2.5.1}Organiza^^c3^^a7^^c3^^a3o de Jornadas, Congressos ou outros}{5}{subsection.2.5.1}%
 \contentsline {subsection}{\numberline {2.5.2}A^^c3^^a7^^c3^^b5es de forma^^c3^^a7^^c3^^a3o}{5}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Programa de mestrado ou doutoramento com interesse para a MGF}{6}{subsection.2.5.3}%
-\contentsline {chapter}{\numberline {3}TRABALHOS CIENT^^c3^^8cFICOS}{6}{chapter.3}%
+\contentsline {subsection}{\numberline {2.5.3}Programa de mestrado ou doutoramento com interesse para a MGF}{5}{subsection.2.5.3}%
+\contentsline {chapter}{\numberline {3}Trabalhos cient^^c3^^adficos}{6}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Os trabalhos publicados em revistas indexadas}{6}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Trabalhos de investiga^^c3^^a7^^c3^^a3o, relato de caso, revis^^c3^^a3o, qualidade e projecto de interven^^c3^^a7^^c3^^a3o, apresentados em congressos e jornadas}{6}{section.3.2}%
-\contentsline {chapter}{\numberline {4}OUTROS ELEMENTOS DE VALORIZA^^c3^^87^^c3^^83O CURRICULAR}{6}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Outros elementos de valoriza^^c3^^a7^^c3^^a3o curricular}{6}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Participa^^c3^^a7^^c3^^a3o na forma^^c3^^a7^^c3^^a3o de outros profissionais}{6}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Outras atividades m^^c3^^a9dicas n^^c3^^a3o descritas anteriormente}{6}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Participa^^c3^^a7^^c3^^a3o ativa em organiza^^c3^^a7^^c3^^b5es socioprofissionais e outras associa^^c3^^a7^^c3^^b5es}{6}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Pr^^c3^^a9mios obtidos}{7}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Pr^^c3^^a9mios obtidos}{6}{section.4.4}%
 \contentsline {chapter}{\numberline {5}Coment^^c3^^a1rio final (3 p^^c3^^a1ginas)}{7}{chapter.5}%
