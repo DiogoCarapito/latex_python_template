@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1726759545.75224 "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.tex" "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.pdf" "cv" 1726759546.21964 0
+["pdflatex"] 1726759771.49032 "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.tex" "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.pdf" "cv" 1726759771.9602 0
   "/Users/diogocarapito/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1726483741.48741 28313 b59c4074c855472c29a6f4a66db86608 ""
   "/Users/diogocarapito/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1725861779.13612 21088972 aff0cedcb783c14c1e9bf4bbacb9c5a2 ""
   "/Users/diogocarapito/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc" 1725862145.6777 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
@@ -69,10 +69,10 @@
   "/Users/diogocarapito/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty" 1726483615.0969 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "/Users/diogocarapito/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1725862127.5099 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Users/diogocarapito/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1725862123.29165 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.aux" 1726759546.13951 7811 315f4dea2eb5bdbaa5ad714812adf69b "pdflatex"
-  "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.out" 1726759546.14103 14766 6222635e13e65666a1394dcc2272f3e4 "pdflatex"
-  "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.tex" 1726759544.69715 16973 3a054a7e567ef0f8e2f7b9472c22de4f ""
-  "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.toc" 1726759546.1413 5886 f5e064840bbecfc57e1b0c115aca5576 "pdflatex"
+  "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.aux" 1726759771.87911 7791 520746ffaed25f2f3b105009497a765a "pdflatex"
+  "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.out" 1726759771.88071 14686 611f637fe8e4295f126e54679540f91e "pdflatex"
+  "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.tex" 1726759770.50473 16973 68bb45e4b6fd69692f5ff41d3fa47ace ""
+  "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.toc" 1726759771.88102 5866 e5c5fee06c162dacddb14bb2b798ad7b "pdflatex"
   (generated)
   "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.aux"
   "/Users/diogocarapito/Programação/latex_python_template/cv_2022/cv.log"
