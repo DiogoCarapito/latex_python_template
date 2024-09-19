@@ -16,6 +16,9 @@
     bottom=20mm,
   }
 
+\titleclass{\part}{top}
+\titleclass{\chapter}{straight}
+
 % Redefine \part to remove the page break and format it as a header
 \titleformat{\part}[hang]
   {\normalfont\Huge\bfseries}
@@ -24,12 +27,19 @@
   {}
 \titlespacing*{\part}{0pt}{3.5ex plus 1ex minus .2ex}{1em}
 
-% Redefine chapter format to hide chapter number
+% Redefine chapter format to include chapter number
 \titleformat{\chapter}[hang]
-  {\normalfont\Huge\bfseries}
-  {}
-  {0pt}
-  {\Huge}
+  {\normalfont\LARGE\bfseries}
+  {\thechapter.} % Include chapter number
+  {0.5em} % Separation between label and title text
+  {\LARGE}
+
+% Redefine section format to include section number
+\titleformat{\section}[hang]
+  {\normalfont\Large\bfseries}
+  {\thesection} % Include section number
+  {0.5em} % Separation between label and title text
+  {\Large}
 
 \setcounter{secnumdepth}{3} % Enable numbering for subsubsections
 \setcounter{tocdepth}{2}    % Include subsubsections in the table of contents
@@ -82,7 +92,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 \section{Internato de Formação Específica}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\setcounter{chapter}{0}
+%\setcounter{chapter}{0}
 \part{Atividade Clínica em Medicina Geral e Familiar (34 páginas)}
 
 \chapter{Caraterização do contexto da atividade em MGF}
